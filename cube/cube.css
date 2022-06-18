@@ -1,0 +1,48 @@
+.place {
+    position: absolute;
+    top: 50%;
+    right: 50%;
+}
+.cube {
+  transform-style: preserve-3d;
+  position: relative;
+  margin: 0 auto;
+  width: 200px;
+  height: 200px;
+  transform: rotateX(45deg) rotateY(50deg) rotateZ(80deg);
+}
+
+.cube :nth-child(n) {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+}
+
+.cube :nth-child(1) {
+  background-color: blue;
+  transform: translateZ(-100px);
+}
+.cube :nth-child(2) {
+  background-color: blueviolet;
+  transform: translateZ(100px);
+}
+.cube :nth-child(3) {
+  background-color: black;
+  transform: rotateX(90deg);
+  bottom: -100px;
+}
+.cube :nth-child(4) {
+  background-color: brown;
+  transform: rotateX(90deg);
+  top: -100px;
+}
+.cube :nth-child(5) {
+  background-color: chartreuse;
+  transform: rotateY(90deg);
+  right: 100px;
+}
+.cube :nth-child(6) {
+  background-color: darkgoldenrod;
+  transform: rotateY(90deg);
+  left: 100px;
+}

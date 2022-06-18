@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "25153457530",
+    "project_id": "chatflutter-b4bb0",
+    "storage_bucket": "chatflutter-b4bb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25153457530:android:374432ea2b1e81a81f1ac3",
+        "android_client_info": {
+          "package_name": "com.example.fluttercrossfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25153457530-7isnj0jpht1v4ov9tke6uvotakg6tief.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp5ICVauh9QxlZKq2WC_zLy0ghlzF_O18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25153457530-7isnj0jpht1v4ov9tke6uvotakg6tief.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "25153457530-2e1a3nigm5a5f0jnhlcq5ksqi8fmeoso.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fluttercrossfirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

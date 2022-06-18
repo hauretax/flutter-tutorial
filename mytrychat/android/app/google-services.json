@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "34248156766",
+    "project_id": "chat-flash-51b4a",
+    "storage_bucket": "chat-flash-51b4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34248156766:android:476d8c5680474109a076cf",
+        "android_client_info": {
+          "package_name": "co.hauretax.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34248156766-2u3gfaqgn6ajvrd32m80uih79os3q748.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuFFZY5-UEHm4f5pIlRvsH5qU8O2lYnj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34248156766-2u3gfaqgn6ajvrd32m80uih79os3q748.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
